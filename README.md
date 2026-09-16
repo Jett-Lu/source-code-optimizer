@@ -2,6 +2,8 @@
 
 A local-first minifier for JavaScript, HTML, and CSS. Import a file or paste code, compare the original with a smaller copy, and download the result. Your source stays on your computer.
 
+<img width="1393" height="955" alt="image" src="https://github.com/user-attachments/assets/52b13139-da74-4b2b-8db4-33fbc7f642b1" />
+
 ## Open the app
 
 After setup, Windows users can double-click **Start Source Code Optimizer.cmd**. Keep its terminal window open while using the app. Close that window to stop the local server.
