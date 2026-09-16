@@ -2,7 +2,7 @@
 
 A local-first minifier for JavaScript, HTML, and CSS. Import a file or paste code, compare the original with a smaller copy, and download the result. Your source stays on your computer.
 
-<img width="1386" height="914" alt="image" src="https://github.com/user-attachments/assets/bd9576fb-e870-41ea-9bc0-a06ecef892c2" />
+<img width="1206" height="699" alt="image" src="https://github.com/user-attachments/assets/68bad271-5c33-4e3d-b81f-699975a91269" />
 
 ## Open the app
 
